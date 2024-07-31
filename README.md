@@ -1,4 +1,3 @@
-Overview
 Chitragupt is an ambitious project aimed at developing an advanced language model designed to process and respond to queries based on ancient texts. My goal is to leverage the rich, historical content of these texts to create a sophisticated chatbot capable of engaging users with accurate and insightful responses.
 
 Features
