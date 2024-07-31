@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" height="60" alt="cuda logo" />
+  <img src="https://www.svgrepo.com/show/373541/cuda.svg" height="60" alt="cuda logo" />
 </p>
 
 <h2 align="center">📜 Overview</h2>
